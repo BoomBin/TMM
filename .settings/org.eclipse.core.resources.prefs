@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebContent/add.jsp=UTF-8
+encoding//WebContent/addTeacher.jsp=UTF-8
+encoding//src/com/bin/dao/UserDao.java=UTF-8
+encoding//src/com/bin/service/UserService.java=UTF-8
+encoding//src/com/bin/servlet/AjaxServlet.java=UTF-8
+encoding//src/com/bin/servlet/LoginServlet.java=UTF-8
+encoding//src/com/bin/servlet/ResignServlet.java=UTF-8
+encoding/<project>=UTF-8
